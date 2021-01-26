@@ -3,7 +3,6 @@ import os
 import errno
 import shutil
 
-sys.path.append(r'C:\Users\Alex\AppData\Local\Programs\Python\Python38-32\Lib\site-packages')
 from tinytag import TinyTag
 
 Downloads = r'F:\$Alexander$\Music\complete'
